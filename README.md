@@ -8,12 +8,7 @@ And a vibrating motor with varying intensity!
 ![image](https://github.com/user-attachments/assets/b32dbc81-8032-4e0c-8b29-e6d04ac0afa3)
 
 BOM:
-1 Battery holder
-2 potentiometer
-1 photoresistor
-3 push button
-5 led
-5 220 resistor
-1 mini motor disc
+1 battery + batter holder, 3 swtiches, 5 LED, 6 220 resistor, 2 potentiometer, 1 photoresistor, 1 mini motor disc, 1 transitor
+
 
 Slack username: acise03
